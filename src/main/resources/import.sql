@@ -1,0 +1,1 @@
+INSERT INTO User (username, password, date_of_birth, ssn) VALUES  ('usera', 'pwD1', now(), 'test');
