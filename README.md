@@ -40,6 +40,11 @@ The following user is loaded into database already.
 
 ### compile & run
 
+You might need to install lombok plugin for IDE
+
+	https://projectlombok.org/download
+
+
 >  gradle clean build integrationTest bootRun
 
 >  http://localhost:8080
